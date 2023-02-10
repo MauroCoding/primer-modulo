@@ -1,5 +1,5 @@
 package greetings
 
 func English() string {
-	return "Hello"
+	return "Hello" + emoji
 }
